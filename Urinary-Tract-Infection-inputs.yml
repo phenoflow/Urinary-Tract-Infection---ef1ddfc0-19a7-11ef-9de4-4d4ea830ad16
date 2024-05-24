@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/urinary-tract-infection-specified---primary.py
+inputModule3:
+  class: File
+  path: python/tract---primary.py
+inputModule4:
+  class: File
+  path: python/urinary-tract-infection-cystitis---primary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
